@@ -1,0 +1,26 @@
+# 本地部署生成的运行资料
+.local-work/
+runtime/
+autodl-instances/
+logs/
+backups/
+state/
+__pycache__/
+*.py[cod]
+*.log
+*.bak
+*.bak-*
+.env
+.env.*
+!.env.example
+auth.json
+*password*.txt
+*token*.txt
+known_hosts
+ssh-config
+instance.json
+*-process.json
+acceptance-report.json
+official-install.sh
+*.tar.gz
+*.zip

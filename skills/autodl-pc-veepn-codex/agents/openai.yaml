@@ -1,0 +1,4 @@
+interface:
+  display_name: "AutoDL（云计算平台）个人环境部署"
+  short_description: "为 AutoDL（云计算平台）部署个人代理环境和可升级的 Codex（编程助手）"
+  default_prompt: "使用 $autodl-pc-veepn-codex，为我的 AutoDL（云计算平台）实例部署独立个人代理环境，以及使用 ChatGPT 登录并可升级的 Codex（编程助手），完成实际网络和模型交互验收。"
